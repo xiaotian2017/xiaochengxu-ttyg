@@ -1,0 +1,16 @@
+view{
+  width: 80%;
+  margin-top: 40rpx;
+  height: 80rpx;
+  background-color: green;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 80rpx;
+  color: #ffffff;
+  border-radius: 10rpx;
+}
+
+button{
+  width: 100%;
+  margin-top: 40rpx;
+}

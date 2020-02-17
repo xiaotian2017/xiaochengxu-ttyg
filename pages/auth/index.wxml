@@ -1,0 +1,7 @@
+<!-- <button type="primary" plain optn-type="getUserInfo" bindgetuserinfo="handleGetUserInfo">
+  获取授权
+</button> -->
+
+<view bindtap="handleGetUserInfo" optn-type="getUserInfo" >
+获取授权
+</view>
